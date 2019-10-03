@@ -1,5 +1,6 @@
 <?php
 
+
 $_MAG_DATA['get_localization'] = [];
 $_MAG_DATA['get_localization']['weather_comfort'] = 'Comfort';
 $_MAG_DATA['get_localization']['weather_pressure'] = 'Pressure';
